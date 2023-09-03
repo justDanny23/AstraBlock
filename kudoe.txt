@@ -1,0 +1,357 @@
+Who is Kudoe™?
+
+Kudoe is a blockchain-based project that aims to build a self-sustaining ecosystem powered by the native KDOE token and the Dogs of Elon NFT collection. Our mission is to empower the blockchain community through the use of web3 technologies, decentralized governance, and innovative economic models such as play-to-win competitive games, metaverse experiences, NFT marketplaces, and decentralized finance protocols. Our vision is to create meaningful utility for the KDOE token and Dogs of Elon NFTs, driving adoption and growth within the blockchain space.
+
+Where does the name "Kudoe" come from?
+
+The name Kudoe is derived from the Greek word "Kudos," which means a statement of praise or approval. The unique spelling of Kudoe stems from the acronym of the project's Genesis NFT collection, Dogs of Elon, combined with the word kudos. The name reflects the project's goal to be a positive and uplifting force in the world of cryptocurrency.
+
+Our Ecosystem
+The Kudoe ecosystem is composed of six main components: Governance, NFTs, Gaming, Decentralized Finance, Blockchain and Community. These components work together to create a comprehensive platform that is powered by the KDOE token. 
+KDOE serves as the primary currency for transactions within the ecosystem and is also the underlying currency for the Governance component, which allows holders to participate in decision-making processes. 
+
+Our Company
+Kudoe is registered in the United Arab Emirates (UAE) as a formalized company. The UAE is a technological and innovation hub- registering the Kudoe company in this region provides access to a wealth of resources and opportunities otherwise unavailable. The UAE’s highly developed infrastructure, favorable business environment, and strategic location make it the ideal place to base operations for a technologyfocused company like Kudoe. Additionally, the UAE’s commitment to support innovation and entrepreneurship provides the Kudoe team with the backing and resources required to grow and thrive, irrespective of market conditions.
+
+Our Mission 
+Our mission is to utilize Web3 technology to create entertaining and highly engaging applications that push the boundaries of traditional gaming and the metaverse. We believe that by harnessing the power of blockchain technology, we can address the failures of web2 centralization in traditional gaming, finance, and governance, and create a new era of decentralized, transparent, and secure applications.
+
+Our Vision
+Our vision is to create a vibrant and captivating blockchain gaming community where players can experience the excitement and thrill of decentralized gaming, while also enjoying the benefits of true ownership and control over their assets. Through our innovative use of blockchain technology and our commitment to delivering high-quality gaming experiences, the Kudoe project strives to deliver unique blockchain gaming that is both fun and rewarding for players of all levels.
+
+Kudoe's Roadmap
+In order to deliver on our commitments to the highest standards, the roadmap will be developed in phases rather than with specific target dates. This approach allows us to take the time necessary to ensure that we are meeting or exceeding industry standards, rather than cutting corners or taking shortcuts. By prioritizing quality and sustainability over expediency, we hope to build a strong foundation for long-term success.
+
+Scalability and Growth
+
+Scalability is a critical consideration for the Kudoe ecosystem as it enables us to support the growth of our community and smart contract integrations. To achieve our long-term vision, the Kudoe team is committed to building a scalable platform that can handle increased demand and usage.
+
+Kudoe has now become a multichain project with tokens available on both Ethereum and Binance Smart Chain (BSC). The Ethereum KDOE staking pool, Kudoe DAO, and NFT staking will continue to be on Ethereum. However, a staking liquidity pool will be added to the BSC side in the near future. The KDOE token launch on the BSC chain took place on April 12th, 2023.
+Kudoe has established a partnership with Celer Network Bridge, and the bridge between Ethereum and Binance Smart Chain is now live. Holders can bridge their tokens using Celer Network Bridge, which enables seamless cross-chain asset transfers.
+
+Our goal is to provide a scalable and interoperable platform that can support the growth and evolution of the Kudoe ecosystem. As we continue to evolve, we will explore other layer 1 blockchains and their potential integration to expand the scope of our ecosystem, improve scalability, and enhance performance. Importantly, we will ensure that any integration with other blockchains will not dilute any existing token supply, and no further token sales will be held on other blockchains. Instead, cross-chain bridges will be utilized to enable token swaps between different blockchains, with the treasury reserves providing liquidity for such bridges.
+
+The Name
+Kudoe, was an exercise of combining the word ‘Kudos’ and its meaning of celebration and recognition of what we hope to accomplish for the future with the acronym ‘DOE’ that represents our genius NFT Collection. 
+
+The Logo
+The process of choosing the logo for Kudoe was extensive and involved the input of many people. We wanted to create a logo that was unique, memorable, and representative of our brand. To help us achieve this, we recruited one of the best design companies in the industry led by Dmitry Lepisov.
+
+KDOE Token
+The KDOE token is an multichain utility token built on the Ethereum blockchain (ERC-20) and Binance Smart Chain (BEP-20) and is an integral component of the Kudoe ecosystem. With a total token supply of 1,000,000,000, KDOE serves as the primary currency for transactions within the gaming and decentralized application space, as well as the underlying currency for our governance protocol (DAO).
+We have designed a unique tokenomic contract structure that integrates both cryptocurrency and NFTs by using both the KDOE token and our Dogs of Elon genesis NFT collection. This allows us to create a connected ecosystem that leverages the strengths of both types of digital assets, providing a more robust and engaging experience for our token holders.
+Token Features / Usecases 
+DeFi transaction Fee: KDOE has a tax on all sell transactions done through DeFi exchanges (DEX) applications such as Uniswap or PancakeSwap. The funds generated from the fees will be allocated to develop and market Kudoe and the entire ecosystem to enable key growth metrics.
+Interconnected: Kudoe has developed a unique and multifaceted token model which is connected to our NFT collection. Kudoe genesis NFT Holders enjoy a discounted transaction dex fee for all buys and sells.
+Deflationary: The DeFi transaction fee includes a 1% deflationary fee that removes 1% of each  sell transaction from circulation and reduces supply over time.
+Staking/Governance: Kudoe has developed a unique staking structure which allows Ethereum based KDOE holders to stake the token and participate in the Kudoe DAO governance using gKDOE.
+In-Game Transactions Currency: KDOE will be used as the basis currency for in-game purchases, tournaments, land sales, NFT drops and beyond.
+
+It is our goal to create a long term, sustainable and dynamic ecosystem that can continue to thrive for years to come. To support the initial growth and development of the Kudoe ecosystem, a DEX tax has been implemented for all sell transactions for KDOE. The proceeds acquired from this tax will be earmarked for marketing, development, liquidity and burning, all of which are crucial to the long term sustainability and growth of the project.
+Owning a Dogs of Elon NFT will get you a 2% discount on all taxable buys and sells
+Pick one up before making a large buy and it may even pay for itself in time!
+The tax percentages, distribution, and uses are found below:
+
+There are no transfer fees associated with the movement of DOE from one wallet to another.
+There are no taxes or transfer fees for any purchases or sales made on centralized exchanges.
+Taxes will only apply to sales made on decentralized exchanges
+Tax Allocations
+Marketing 
+The funds will be allocated towards expenses related to promoting the project and expanding the community. This includes, but is not limited to, advertising and public relations campaigns, creating marketing materials such as videos and infographics, and utilizing social media and influencer marketing to increase awareness and interest in the project. These initiatives are crucial for driving user adoption, increasing community engagement, and ultimately, contributing to the long-term growth and sustainability of the ecosystem.
+Development
+These funds will allow us to allocate necessary resources towards expanding our development team and realizing the milestones outlined in our project's roadmap. These funds will be crucial in recruiting skilled and experienced personnel, as well as covering associated costs for the ongoing development and maintenance. Through the expansion of our team, we will be able to accelerate the pace of development and enhance the scalability, security, and overall user experience.
+Liquidity
+Tax proceeds collected in the liquidity wallet are intended for the purpose of providing liquidity and covering exchange-related fees on both centralized and decentralized platforms. We are committed to listing our project on reputable, top-tier exchanges, as well as ensuring liquidity on decentralized exchange platforms, such as Uniswap on Ethereum blockchain and Pancakeswap on Binance Smart Chain. This approach is critical to ensure the smooth functioning of the ecosystem, market stability, investor confidence, and growth of the project.
+Burn
+The Burning Mechanism for our project has been designed as a manual process. The decision to opt out of an automatic burn mechanism has been made in order to future-proof the project and provide flexibility in adjusting the fees as necessary. Transparency and accountability are of the utmost importance, thus all burns will be made public and fully transparent to the community.
+Tax Transparency
+The management and safeguarding of all funds associated with the project is of the utmost importance. To this end, all funds will be securely stored in multi-signature wallets under the oversight of the project's team. To ensure transparency and community trust, the project will make available the wallet addresses for public monitoring, which can be found on our website
+We understand that transparency is crucial for maintaining the community's trust; however, there may be instances where the team cannot disclose certain transactions due to the need to protect sensitive information under privacy and non-disclosure agreements. In such instances, we request the understanding and trust of our community while we work to comply with all legal and regulatory requirements.
+Additionally, it is worth highlighting that, as holders of KDOE, our community will have the ability to govern the allocation and percentages of the tax through the Kudoe DAO. Any changes to the tax fees will only be processed after a mandatory timelock period, which will provide all holders with notice of the changes on the blockchain, ensuring that all holders have sufficient time to review and provide feedback.
+Tax Wallets
+Marketing Wallet: 0x8547353c71837342df9b5F4f6FC51a55FC218e07
+Development Wallet: 0x91d556466f0cDEEda28cB459CCd5dc418fe23AB5
+Liquidity Wallet: 0xE657e2708974687477DB81F76234aC8efBff1AcA
+Burn Wallet: 0x67344feb46881f237dccbb18536e7eee7b28cac3
+
+The distribution of KDOE tokens is a crucial element in the advancement and expansion of the KDOE ecosystem. To guarantee the long-term viability and prosperity of the platform, we have meticulously evaluated the multiple applications of KDOE tokens and devised a comprehensive allocation strategy.
+
+Airdrop
+18.8% of the total tokens will be reserved for an airdrop to DOE Token holders. This is total based on the snapshot taken prior to launch.
+Staking
+15% of the total tokens will be dedicated to staking, allowing token holders to earn rewards for supporting the network by holding and staking their tokens.
+Locks: 
+100,000,000 Tokens Locked 
+24,000,000 Deposited into Staking Contract
+Gaming
+14% of the total tokens will be focused on the gaming industry, which is a key focus for KDOE. These tokens will be used to incentivize adoption and engagement within the gaming community and drive the growth of the platform.
+Locks:
+120,000,000 Tokens  Locked 
+CEX/Liquidity
+27.2% of the total tokens will be reserved for CEX/liquidity to ensure the liquidity and stability of the token by providing a source of tokens for exchange listings and liquidity pools (DeFi).
+Locks:
+100,000,000 Tokens Locked
+Development
+10% of the total tokens will be used to finance the ongoing development and maintenance of the ecosystem, as well as any necessary research and development.
+Locks:
+90,000,000 Tokens Locked 
+Marketing
+10% of the total tokens will be allocated to marketing efforts to promote the adoption and engagement of the KDOE Ecosystem.
+Locks
+90,000,000 Tokens Locked
+Team
+5% of the total tokens will be reserved for the team to align their interests with those of the community and incentivize their continued efforts in building and improving the platform.
+Locks:
+40,000,000 Tokens Locked
+These token allocation percentages may vary in the future. 
+
+KDOE holders will have the opportunity to participate in the governance of the token allocation and percentages through the Kudoe DAO. This will allow the community to have an active role in the direction and development of the KDOE ecosystem. The team allocation will be an exception to this, as it will be managed solely by the founders.
+
+Kudoe DAO
+Introducing the Kudoe DAO
+Kudoe strongly advocates for decentralization and believes that a DAO (decentralized autonomous organization) can bring numerous benefits to our crypto community. DAOs allow for transparent and democratic decision-making, where every member has a voice and can contribute to an organization’s governance. Because DAOs are based on smart contracts, they are highly transparent and resistant to manipulation or fraud. This promotes greater community engagement and participation, leading to collaboration, innovation, and better outcomes for the community. Kudoe sees its DAO as a powerful tool for promoting decentralization, transparency, and community participation, revolutionizing how KDOE operates while empowering its members to take an active role in decision-making.
+The Kudoe DAO was initially launched on Wednesday, March 1st, 2023 on the Ethereum blockchain and utilizes gKDOE as its governance token.
+This page of the gitbook will explain , , , , , and beyond.
+What is gKDOE and How to get it?
+gKDOE is our governance protocol token, wrapped one-to-one with KDOE. KDOE(ERC-20) holders will be able to participate in governance by staking their KDOE which mints gKDOE in return, proportional to KDOE staked. Once gKDOE is unstaked, gKDOE will be unwrapped for KDOE, one to one
+In order to incentivize governance participation, we have implemented staking rewards for staking KDOE Token. Holders that wish to participate in governance, or simply just want to stake, will be able to stake KDOE tokens and earn more KDOE tokens as a reward. 
+This unique system empowers and enables KDOE (ERC-20) token holders to stake and participate in governance at once, allowing for higher and incentivized governance participation.
+1 gKDOE = 1 KDOE
+Can I trade gKDOE?
+The gKDOE token is transferable between different wallets. However, it should be noted that gKDOE is not intended for trading purposes, as it has been designed solely for the purpose of governance. Kudoe will not be listing gKDOE on any centralized or decentralized exchanges. The gKDOE token can only be unwrapped back into KDOE by the wallet from which the original KDOE was staked.
+What is a DAO?
+A DAO, or Decentralized Autonomous Organization, is a type of organization that operates through smart contracts on a blockchain network without a central authority or control. Decisions are made through consensus mechanisms, such as voting by its members or token holders. Its bylaws and rules are transparent and open to inspection by anyone with access to the blockchain network.
+How will Kudoe utilize the DAO?
+The Kudoe DAO has been developed to empower KDOE token holders to govern the token and provide essential feedback and input to the entire ecosystem. 
+Specifically, the DAO will govern 
+KDOE token contract functions, including tax, timelock, and allocation. 
+Staking contract, dilution, rewards, etc. 
+Grants 
+The DAO will be able to regulate DAO threshold requirements, Quorum (minimal votes needed). 
+The DAO will NOT govern the following 
+Black and Whitelist token functions. 
+Team allocation 
+Liquidity allocation 
+Kudoe the Company  
+The DAO can also be used as a tool for token holders to guide and advise the project for potential use cases and utilities. 
+Legal Disclaimer:
+Participation in the Kudoe DAO does not grant KDOE token holders any ownership or control of "Kudoe," the company, or any associated trademarks, intellectual property, or applications. The Kudoe DAO is established to govern only a predetermined set of functions on the token contract and select use cases. Any decisions made by the DAO will not alter the ownership or control of the company or its intellectual property. Kudoe retains all rights, title, and interest in the company, its trademarks, and intellectual property, and participation in the DAO should not be interpreted as a transfer, sale, or conveyance of any ownership or control of the same. By participating in the Kudoe DAO, token holders acknowledge and agree to these terms and acknowledge that the DAO's operations and decisions are limited to the specific functions and use cases governed by the DAO.
+​
+The Governance Process
+There are two key phases for the Kudoe DAO, Referendums and Proposals.
+What are Referendums?
+Referendums are “proposals” curated by Ethereum based KDOE token holders that suggest a change or an idea that falls in line with what the DAO is allowed to govern. 
+Referendums are non-binding even if passed and approved by token holders. Once a referendum has been passed, it goes through a screening process by the Kudoe team to determine if the referendum will be turned into a “Kudoe Improvement Proposal,” or KIP for short.
+Referendums can be rejected by the team if deemed “harmful” or “malicious” to the Kudoe ecosystem. If an approved referendum is rejected, the team will provide a full detailed explanation, with recommendations for updating or changing key details for a revote. 
+The following are the referendum Rules and Requirements: 
+50,000 GKDOE tokens (Staked ERC-20 KDOE tokens). 
+10,000,000 GKDOE Quorum (minimal total votes threshold for a referendum to pass). 
+2-hour cool-down before voting starts after the referendum is submitted. 
+7-day voting period. 
+Follow the referendum guidelines. 
+Referendums that fail to follow the guidelines will be removed. 
+What are Proposals (KIPs)?
+DAO proposals are curated by the Kudoe team, derived from two key areas, referendums, and core proposals, and turned into official “Kudoe Improvement Proposals” [KIP] for governance vote. 
+Kudoe Improvement Proposals” or [KIP] is the official naming convention for Kudoe proposals. All proposals will use this naming convention along with the proposal ID for transparency and consistency. 
+Referendums that have been curated and passed by the token and then screened and approved by the Kudoe team will be turned into official KIPs with a dedicated ID number. 
+The Kudoe team will also be able to curate KIPs directly, bypassing the referendum stage, for official governance voting. 
+KIPs that are passed and approved through the governance vote will be binding. 
+The following are the referendum Rules and Requirements: 
+It must be either a Core or an approved/screened referendum. 
+20,000,000 GKDOE Quorum (minimal total votes threshold for a referendum to pass). 
+7-day voting period. 
+Follow the referendum guidelines. 
+Approved KIPs will be executed/applied in accordance with the proposal details. All details are subject to legal and governance changes. 
+Snapshot ⚡️
+Snapshot is a DAO platform that utilizes IPFS and the blockchain to provide tools and solutions for projects utilized through their own ecosystem.
+Kudoe will use Snapshot as its DAO platform and its extensive tools and libraries to provide the most agile, dynamic, and safe governance solution for KDOE token holders and the community.
+In the future, Kudoe will utilize Snapshot’s API to develop its own unique and community-tailored front end.
+
+To participate in KDOE staking, follow these steps:
+Navigate to the staking page on the Kudoe.io or Kudoe.io/staking
+Connect your Ethereum wallet that holds KDOE (ERC-20) to the website. 
+Sign an approval transaction in your wallet, which should give you a pop-up prompt to notify you of this. 
+After wallet approval, click the "Stake" button to begin the staking process
+Add gKDOE Token contract to your wallet: 0xEF732cD262076E3CEc7a1d4E96b052D57B383E69 
+For a more detailed step by step guide with screenshots on how to stake click here.
+Please note there are three total approvals that need to be signed, the token contract, the staking contract and the governance contract.
+Disclaimers
+DO NOT Transfer your gKDOE, you will be unable to unstake if you don't hold in gKDOE the equivalent to your original KDOE Staking, you can only unstake your original staked amount. 
+
+For example if you stake 100 KDOE you will in turn receive 100 gKDOE - you will only be able to unstake and claim your KDOE Tokens if you unstake exactly 100 gKDOE. You will NOT be able to unstake 99 gKDOE.
+
+
+Staking FAQs
+Are my tokens locked if I stake them, or is there a minimum amount of time I must keep them staked?
+The conditions for withdrawing staked KDOE tokens depend on their use in the Kudoe DAO voting processes. If the tokens have not been used for voting in a proposal, they may be withdrawn at any time along with any earned rewards. However, if the tokens have been used to submit a proposal or to vote on a proposal, they must be kept staked until the voting period has ended and the results have been finalized before they can be withdrawn.
+How do I withdraw my staked KDOE and earned rewards?
+To withdraw your staked KDOE and earned rewards, you will need to unstake your gKDOE through your wallet. Simply have the gKDOE in your wallet and click the unstake button. The gKDOE will be converted to KDOE and combined with any rewards you have earned and returned to your wallet.
+Make sure you have a sufficient amount of ETH in your wallet to cover gas fees before attempting to stake or unstake your KDOE. Gas fees are the fees required to execute a transaction on the Ethereum blockchain, and they can vary depending on network demand.
+Do my earned rewards compound automatically?
+No, earned rewards do not compound automatically. However there is a process in which you can manually compound. To stake your earned rewards on top of your current balance, you need to first withdraw them using the "Claim Earned Rewards" option on the staking page. Once you have the earned rewards in your wallet, you can stake them on top of your current balance by entering the amount of tokens and using the stake button. This will result in additional gKDOE rewards for the newly staked tokens.
+Monitor the Ethereum gas price, or GWEI, to ensure that you are not paying unnecessarily high fees when staking or unstaking your KDOE. If gas prices are low, it may be an excellent time to unstake and restake your KDOE in order to take advantage of compounding staking rewards. Some community members do this every two weeks, while others do it monthly.
+What is the Kudoe DAO and where can I find more information about it?
+The Kudoe DAO allows KDOE token holders (ERC-20) to submit proposals to help direct the future of the token. Users can also vote on proposals that have already been accepted. By putting the power of governance in the hands of its users, Kudoe aims to create a truly decentralized platform that is open, transparent, and fair. Through the DAO, KDOE token holders can have a say in the direction and development of the token and the Kudoe ecosystem. 
+How long will I be able to gain rewards from the Kudoe staking pool?
+The Kudoe staking pool is set for one year. Please note that this information is subject to change, and it is important to stay up-to-date on the latest developments and announcements from Kudoe.
+
+As an added utility and benefit of ownership of a Dogs of Elon NFT, we offer an APR boost incentive to stake an NFT alongside your KDOE tokens. When you stake your Dogs of Elon NFT you will get a boost to the Annual Percentage Rate (APR) rewards on your staked KDOE tokens.
+The rewards structure is simple and is built so that NFT boosting makes sense for as many of our KDOE holders as possible.
+Start Staking Now: Kudoe.io/staking 
+The maximum number of NFTs that can be staked is 1. 
+By staking a single Dogs of Elon NFT your KDOE staking rate will receive a boost of 10% of the current APR.  This means if the current APR level is 20%, then by staking a single NFT, you will receive a boost of 2% on top of the 20% APR you are already receiving, making your effective KDOE staking APR 22%.
+It is important to note that the amount of the boost is a percentage of the current APR.
+This means if the APR increases or decreases, the boost will also increase and decrease in conjunction with it.  The boost will always be 10% of the CURRENT APR
+For example:  
+KUDOE STAKING POOL APR = 29%     NFT BOOST = 2.9%
+KUDOE STAKING POOL APR = 22.5%  NFT BOOST = 2.25%                                                                        KUDOE STAKING POOL APR = 17%      NFT BOOST = 1.7%                          
+By limiting the number of NFTs able to be staked to one, the team hopes to decrease the amount of ETH community members use on gas to stake and unstake your NFT. NFT staking can be quite costly, especially if Gwei is high. We want you to keep your boosted KDOE rewards not spend it all on gas!
+
+
+Kudoe Gaming
+Our Core Belief
+We believe that the most effective use of blockchain technology in gaming is one where it is largely invisible to the player. The underlying blockchain technology should be seamlessly integrated into the gaming experience and not detract from the fun and immersive gameplay. The goal is to create a truly enjoyable and rewarding gaming experience for players, rather than one that is bogged down by technical complexities or the need for a deep understanding of blockchain technology.
+​
+This is why we strive to create games that are built on top of blockchain technology, but where the blockchain is not the primary focus. This allows for the creation of games that are engaging, fun and rewarding, where the blockchain is not only the underlying layer, but it is also providing real value to the players. It also means that the players don't have to be experts in blockchain to be able to enjoy the game.
+
+Completing the Web3 Gaming Puzzle
+Our primary development goal is to bridge the gap between blockchain technology and entertainment by creating gaming and metaverse experiences that are truly engaging and rewarding for players through the use of blockchain technology, tokenization, and digital asset ownership. By doing so, we aim to complete the puzzle and bring web3 gaming to its full potential.
+​
+Furthermore, the Kudoe team values community building and collaboration in the decentralized gaming world. Unlike centralized markets where game development is done in relative seclusion, blockchain allows for greater cooperation among different gaming communities, developers, and ecosystems. We strive to foster collaboration, and create opportunities for our gaming ecosystem to interact with other NFT communities and digital assets, as we believe that collaboration is the key to building and fostering a more fun and engaging web3 gaming experience.
+
+DOE Rangers
+Kudoe's DOE Rangers is an engaging, retro-style side-scrolling game that incorporates the Genesis Dogs of Elon NFT collection. Players are tasked with maneuvering their NFT dog character through a challenging alien invasion of Elon Musk's colony on Mars. The game's objective is to collect coins while protecting the colony from destruction by avoiding obstacles such as lava pits, alien tentacles, and attack ships. 
+The game adopts a "play-to-win" tokenomic structure, where players with exceptional skills have the opportunity to earn KDOE prizes by participating in tournaments. While the game is open to all players, only those possessing a Dogs of Elon NFT are eligible to participate in the play-to-win tournaments and special events. These tournaments are driven by leaderboard rankings and offer varying prize pools based on player skill level. In the future, Kudoe plans to introduce custom tournaments and matchmaking options, enabling players to compete against their friends for shared prize pools.
+
+Game features
+Tournaments to Win KDOE Prizes
+Utilizes a Play to Win Mode
+Boss Battles 
+Competitive Leaderboards
+Mobile Friendly 
+Tournaments to Win KDOE Prizes
+Game Alpha Testing
+Season 1 
+The Kudoe team completed a closed alpha season one, which ran for a period of four months during the summer/fall of 2022. The primary objective of this alpha season was to test the game's security, identify and resolve bugs, optimize playability, and provide the community with an exclusive glimpse into the development process of Kudoe. The testing and feedback gathered during this closed alpha season have been crucial in shaping and improving the overall game experience for players..
+Season 2
+Following the implementation of enhanced security measures and the introduction of several new features, the Kudoe team conducted Alpha season two from late November to mid-December. A key feature debuting during this season was the tournament leaderboard system, which provided a clear and organized display of player progress and skill level. Additionally, a series of three competitive tournaments were held, offering a modest prize pool for the top performers on the leaderboards at the end of each tournament period.
+Season 3
+An official announcement has been made regarding the imminent release of Alpha season 3, which is scheduled to follow shortly after the Binance Smartchain Launch. Among the various updates that have been disclosed, the in-game powerup system has been highlighted as a notable addition, allowing players to rent upgrades using in-game currency or to permanently acquire them with KDOE tokens. Moreover, in-game bosses have undergone a revamp to offer a more formidable challenge to players striving for higher scores. Automatic access to Alpha season 3 will be granted to all  holders who also hold a DOE NFT.
+Alpha Season 3 will feature some new free play charaters including a Pepe and a Mong!
+DOE Rangers FAQs
+Can I play now?
+YES! We are currently still whitelist only however if you have a DOE NFT then all you have to do is fill out this  Once that is complete tag @remulate in the  public chat and let him know you filled out the form and he will approve your whitelist application as soon as he can.
+Does NFT rarity provide an in game advantage?
+Yes, to an extent. The game features a reward system where players can earn bonus coins based on the rarity of the NFT utilized during gameplay. While there is an advantage associated with using rarer NFTs, it is designed to be relatively minimal to avoid creating a pay-to-win scenario where only players with the rarest NFTs have a chance at victory. 
+
+DOE Off the Leash
+Sandbox Experience
+The Kudoe team is extremely cognizant of the value of cross-branding. As part of Kudoe’s cross-branding initiative, the team has acquired a parcel of land in The Sandbox metaverse. This land asset found within The Sandbox ecosystem will be used to develop a single-player role-playing game (RPG) called DOE: Off the Leash. In this Sandbox-hosted adventure, players will explore DOE Park in search of Elon Musk, but will also encounter an evil force threatening the peaceful dogs living there. The objective is to defeat this malign force and protect DOE Park within The Sandbox from its spread. 
+Upon completion of the game, players will have the opportunity to visit our virtual Kudoe Labs team or view the Dogs of Elon NFT gallery located in DOE Park. The gallery provides information about the rarity and features of the NFT collection and displays some of the finest dogs and Elons. By completing all quests and puzzles within The Sandbox experience, players may have the chance to meet and party with the virtual Dogfather himself. 
+As Kudoe continues to grow and expand within The Sandbox metaverse, the team is constantly seeking out new opportunities to enhance Kudoe’s presence and offer even more engaging gaming experiences for players. With that said, the Kudoe team is already considering the further purchase of additional land in the Sandbox to create new and exciting virtual worlds for our players to explore
+Get Ready To Party With Elon
+Current Game Features
+Single Player RPG
+PvE (Player vs Environment)
+Quest and Challenges
+Planned Future Features
+Interoperability
+Multiplayer Experience
+DOE Sandbox Asset Collections
+
+Kudoeverse
+KudoeVerse is a multi-player metaverse gaming experience being developed by Kudoe™
+Background
+Interactivity and competition with other players are integral elements of successful gaming experiences. Metaverses provide a platform for players to engage in real-time social and competitive activities. At Kudoe, we are deeply committed to developing innovative gaming IP and believe that our metaverse will be at the center of these efforts. 
+Our mission is to make every aspect of life a game within the metaverse. To achieve this, we aim to turn the most mundane social tasks into engaging game mechanics that offer endless opportunities for play and discovery. Imagine a world where activities such as playing chess, socializing in a bar, or even using the bathroom become competitive games with real-world rewards. 
+Traditionally, 3D engine technology limitations have restrained Web3 gaming to desktop devices, excluding the majority of casual and mid-core gamers who own mobile devices. At Kudoe, we are taking a different approach by using timeless 2D pixel art styling and web-based technologies to create a mobile-friendly metaverse that is accessible to the widest possible audience. 
+In addition to providing engaging gameplay, we also offer players the opportunity to own a piece of the Kudoe Metaverse through land and property sales. Our marketplace will feature accessories that not only enhance the appearance of players’ virtual spaces but also have functional value within the game. Some of these accessories will include games that players can host and profit from the engagement of other players with them. By combining engaging gameplay with tokenomics, NFTs, and a sustainable metaverse experience, we are creating an environment with limitless potential for expansion.
+Development
+KudoeVerse is a substantial undertaking for Kudoe™ and will require a dedicated development team and funding in order to rapidly grow, expand and develop the metaverse experience. KudoeVerse is at an early development stage, we will be providing milestone updates as we prepare for long term development plans. 
+
+Kudoe Wallet
+Background
+One of the biggest challenges facing blockchain adoption is the difficulty for new users to enter the ecosystem; the barrier to entry is still considerably high. Our goal is to make gaining access to the Kudoe ecosystem as easy as possible, by building user-friendly on-ramps and partnering with key developers and organizations. To achieve this goal, we will be developing a decentralized Ethereum-based wallet that will serve as the central access hub for the entire Kudoe ecosystem. To build this wallet, the Kudoe team will be leveraging the open-source AlphaWallet solution from Smart Token Labs, which will host the upcoming Kudoe DAO, marketplace, games, and any future apps and utilities. 
+Ecosystem on-boarding 
+In addition to building our own wallet, we also plan to partner with fiat on-ramp solutions to make KDOE, NFTs, and our entire ecosystem more accessible to new users. By providing easy access points and user-friendly tools, Kudoe will be primed for mass adoption, more easily facilitating a constant influx of new users and community members to Kudoe’s platform. Overall, our goal is to build an ecosystem that is open, inclusive, and accessible to all users, regardless of their level of experience with blockchain technology.
+
+
+Kudoe NFTs
+There is no denying the power of Non-Fungible Tokens (NFTs) and their ability to enable unique and exciting opportunities for on-chain digital asset ownership, including identity, collectables, and utility. Because of this, the Kudoe team will be leveraging NFTs as a cornerstone of the Kudoe ecosystem, and will do so through the Ethereum based Dogs of Elon Genesis NFT Collection, digital collectible drops, utility NFTs, and an integrated creator economy. 
+In addition to developing the project’s own NFTs, the Kudoe team is also committed to fostering collaboration and interoperability within the NFT space. It is paramount for the NFT ecosystem to grow and thrive through means of collaboration and integration, rather than acting in an insulated manner and gatekeeping the space by supporting just a limited set of collections. To make the space more open and collaborative, Kudoe aims to facilitate the integration and interoperability of other NFT collections into our very own Kudoe gaming ecosystem. 
+Utility
+Utility is a critical factor in the value proposition of any product or service, including NFTs. The more utility an NFT provides, the more likely users are to hold onto it, engage with the associated platform, and become part of a community of like-minded users. Additionally, an increased utility can make an NFT more desirable to those who want to join the community. Ultimately, the usefulness of an NFT can determine whether it becomes a sought-after collectible or an irrelevant artifact. Kudoe strongly emphasizes the utility of any NFTs that it issues. These NFTs are integrated into the Kudoe gaming platform and metaverse in numerous ways, providing opportunities and experiences exclusive to those with NFT ownership.
+In the Kudoe ecosystem, some utilities holders can receive are a boost to KDOE staking rewards, the ability to use the NFT item in-game, discounts on buy and sell taxes, and access to competitive gaming tournaments where KDOE prizes will be issued to those with impressive performances. In the future, we aim to increase the number of perks and benefits holders receive from our Dogs of Elon Genesis collection as well as future collections such as the Kudoe CTZN Pass and others. Those future benefits include early access to Kudoe games and utilities, exclusive early mint opportunities, discounts on in-game purchases, special future merchandise drops and access to special events within the Kudoe ecosystem.
+​
+Dogs of Elon: Genesis Collection
+Dogs of Elon is Kudoe’s Ethereum based genesis NFT collection. Serving as homage to Elon Musk and the crypto dog subculture, the collection acts as the digital identity of the Kudoe community, representing the values and vision of the project. These NFTs are more than just digital pixel art - they are filled with utilities and use cases that help to create and sustain a cohesive ecosystem within the Kudoe project. The Dogs of Elon NFTs can be used in Kudoe’s gaming ecosystem, adding an extra layer of immersive gameplay and reward. The NFTs also play a key role in the Kudoe token economy, serving as a unique and valuable asset that can be traded and used within the KDOE token ecosystem. Overall, the Dogs of Elon collection serves as an integral part of the Kudoe project, bringing purpose and utility to the world of NFTs. 
+The Dogs of Elon Genesis Collection is a limited edition release of 9,997 NFTs, each featuring 8-bit pixel art and a unique blend of traits and characteristics. The base collection includes 9868 unique NFT dogs, each with its own distinct flair and eccentricity. In addition, the collection includes three ultra-rare sub collections: 68 Zombie dogs, 31 Alien dogs, and 30 one-of-a-kind Elon Musk-themed Dogfather NFTs. The Dogfather NFTs in particular are a true highlight of the collection, each one embodying some aspect of Elon Musk’s life, experience, mood, or personality.
+COLLECTION FEATURES:
+9997 Unique NFTs
+137 Total Traits
+Three Sub Collections
+68 Zombie NFTs
+31 Alien NFTs
+30 Elon Musk NFTs
+Stand Alone Utilities
+Gaming Utility
+​​
+Kudoe Metaverse
+​​
+​​
+One Really Cool Profile Picture! 
+Utilities When Paired with a Kudoe CTZN Pass
+Early Access to all Kudoe Games and Utilities, staying ahead of the game
+Early Mint opportunities for future collections, sub-collections, and partnered collections, allowing you to be among the first to own exclusive NFTs
+Discount on in-game purchases for DOE Rangers and KudoeVerse, enhancing your gaming experience
+Discount & Special future merchandise drops, adding a touch of exclusivity to your collection
+Plus, many other incredible benefits to be disclosed in the future
+
+he rarity of an NFT is determined by how uncommon it is compared to other NFTs in the same collection, and is a commonly used concept in collectible or generative art-type NFT projects. Rarity is often used to ascertain the value of a specific NFT within a collection. The rarer the NFT, the higher its price tends to be, and as the floor price of a collection increases, the rarer NFTs also tend to increase more in value than the average of the entire collection. Rarity plays a crucial role in the NFT market since it can impact the value and demand for a particular token. As each token is limited to a specific number across the collection, some are statistically harder to come by. Therefore, understanding how to spot and evaluate rarity is essential for investors in making informed decisions when buying or selling NFTs.
+
+The rarity of the Dogs of Elon Genesis collection is based on the official ranking algorithm provided by our exclusive Rarity Ranking Partner, Rarity Sniper. Their algorithm considers 11 different weighted factors, including the number of traits each NFT possesses as well as the weighted rarity of each trait relative to collection. The algorithm has established an official rarity number for every NFT in the collection.
+
+Overall, there are 9997 NFTs in the collection, and each one has been assigned a unique rarity score based on its individual traits and overall rarity. 
+Sub Collections
+Within the Dogs of Elon Genesis Collection there are three limited sub collections that contain extremely rare and are highly sought after.  The three collections are as follows: 
+
+
+Zombie collection - The Zombie collection is comprised of only 68 NFTs in total. Zombies are identifiable by their dark green fur and bloody mouths which is unique to the zombie sub-collection.  All Zombie dogs also have the Bored eyes trait.
+
+
+Alien collection - The Alien collection is rarer than the zombie collection with a total of only 31 Alien NFTs available. Aliens have a unique bright green fur and the alien eye trait that sets them apart from other dogs in the collection. Alien Dogs are rated at least 69/9997 in the collection.
+
+
+Dogfather collection - The Dogfather collection, sometimes just called the Elon Collection, is the pinnacle and flagship of the entire Dogs of Elon Collection. They are the rarest sub collection with a total of 30 unique 1 of 1 NFTs. Each Elon has embodies some aspect of Elon Musk’s life, experience, mood, or personality. Dogfathers have a trait called 'Edition' that is unique to the sub collection. Each Elon is individually numbered with an Edition trait from 1 to 30. 
+
+Kudoe CTZN Pass
+Coming Soon!!!
+Introducing the Kudoe CTZN Pass NFT - Your Key to the Kudoe Ecosystem. If you are a citizen of the Kudoe Nation the then show the world by obtaining your pass CTZN Pass!
+Unlock the full potential of Kudoe with this all-access pass, offering exclusive perks and benefits. When coupled with DOE NFTs, the CTZN Pass provides early access to games and utilities, discounts on in-game purchases, early mint opportunities, and more. There will be a limited initial launch followed by a free whitelist mint, paired with a strategic distribution plan and planned future drops. Stay tuned for the official unveiling on April 12th during the BSC launch.
+Join the Kudoe community and check out the Medium article to find out how to secure your spot on the whitelist for this exciting new NFT passport.
+
+How can you get one of the initial launch drops?
+How can you get on the whitelist?
+What other benefits will the CTZN pass give?
+
+Introducing the Kudoe NFT Marketplace – a platform currently in development that promises to revolutionize the NFT landscape! Combining AI technology with strategic partnerships, the marketplace aims to foster creativity, collaboration and support multi-token and multi-collection integration. Kudoe has joined forces with BloxBytes, a leading blockchain development company, ensuring a smooth and innovative user experience. The platform will use KDOE tokens to accelerate the token’s burn rate, benefiting its value and scarcity.
+KAI
+The Kudoe NFT Marketplace will utilize KAI (Kudoe Artificial Intelligence), a proprietary AI technology, that will make discovering, curating, and sharing NFTs seamless. 
+
+Creator Economy and E-Sports
+While traditional gaming has its limitations, it is still a vast and thriving industry with a wide range of games and creator economies, including E-Sports and streaming.
+One of our long-term goals is to tap into the traditional gaming world by providing simple solutions to common problems, such as developing incentives for creators and streamers to engage with their communities. This will be achieved by our working with key creators, streamers, and organizations in order to integrate them into the Kudoe ecosystem and economy, and also to develop NFTs and other tools that can be used to reward and incentivize their communities.
+In order to grow the Kudoe brand and rapidly expand our community, we also plan to participate in server ownership in select games. Through this approach, we aim to integrate some of our utilities and functionalities into the NFT and token ecosystem, providing access and rewards for users who engage with our platform. Overall, our goal is to connect the traditional gaming world with the power of blockchain technology and NFTs, allowing for the entire industry to thrive within the Kudoe ecosystem.
+
+Security & Contracts
+It has become a normal occurrence within blockchain industry that projects get compromised due to an oversight or complete lack of security infrastructure. Kudoe has taken every measure necessary in order to ensure the safety and integrity of the token security infrastructure and design.
+Kudoe has engaged the services of Certik, an industry leader in smart contract security and auditing, to secure and monitor our token, governance and staking contracts via Skynet, Certik’s 24/7 monitoring protocol.
+Key Security Features:
+Multi-Sig: All transactions from the deployer wallet will require three out of four signatures to be signed to approve or reject. All four signees are core members of the Kudoe team.
+Time-Lock: The token contract wallet will include a time lock period of 48 hours between when the transaction is requested, and when it is executed. All transactions will be announced directly on the blockchain and publicly viewable on the chain for 48 hours prior to execution.
+Audit: KDOE, gKDOE and all of the staking contracts have been fully audited by Certik, one of the leading blockchain security providers. Our smart contracts are also monitored on Certik’s skynet to ensure around the clock safety and security of our entire ecosystem.
+Know Your Customer (KYC): Kudoe founders have been fully vetted and video interviewed through Certik’s verified KYC process
+DeFi Liquidity Lock: Liquidity in all decentralized exchanges will be locked for 12 month period intervals via Unicrypt and other platforms.
+Kudoe DAO: KDOE token supply allocation and functions will be decentralized and governed via the Kudoe DAO. The governance and the future of the token will be decentralized through the DAO by allowing the community to present referendums and proposals that directly influence KDOE token.
+
+
